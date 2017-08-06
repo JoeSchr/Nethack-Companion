@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   }
 });
 
-export default class NHcalc extends Component {
+export default class NethackCompanion extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -40,4 +40,4 @@ export default class NHcalc extends Component {
   }
 }
 
-AppRegistry.registerComponent("NHcalc", () => NHcalc);
+AppRegistry.registerComponent("NethackCompanion", () => NethackCompanion);

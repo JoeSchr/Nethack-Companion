@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class NHcalc extends Component {
+export default class NethackCompanion extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('NHcalc', () => NHcalc);
+AppRegistry.registerComponent('NethackCompanion', () => NethackCompanion);

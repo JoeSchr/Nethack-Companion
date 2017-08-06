@@ -1,4 +1,4 @@
-package com.nhcalc;
+package com.nethackcompanion;
 
 import android.app.Application;
 
